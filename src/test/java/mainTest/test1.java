@@ -7,9 +7,19 @@ public class test1 {
         System.out.println("harbiden main");
         System.out.println("şflkfsdjfşlkdfs");
 
+        System.out.println("main by Akif");
+
+        System.out.println("test deneme");
+
+
+                //maine ne yapmışlar böyle
+            //Deneme 2 by Akif
+
+
         System.out.println("main de main");
 
         System.out.println("test deneme");
+
 
     }
 }
