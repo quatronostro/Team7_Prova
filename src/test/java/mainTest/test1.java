@@ -22,7 +22,10 @@ public class test1 {
 
         System.out.println("deneme2");
 
-
+        /*
+        Elinize sağlık arkadaşlar mükemmel bir çalışma oldu :)))
+        Kod yazmaya devam 👍👍
+         */
 
 
     }
