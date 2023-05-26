@@ -6,5 +6,7 @@ public class berketest1 {
         String name = "berke";
 
         berkeTest2.toStr();
+
+        System.out.println(name);
     }
 }
