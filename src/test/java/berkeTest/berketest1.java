@@ -8,5 +8,7 @@ public class berketest1 {
         berkeTest2.toStr();
 
         System.out.println(name);
+
+        System.out.println("hello world");
     }
 }
