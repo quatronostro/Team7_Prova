@@ -9,5 +9,7 @@ public class berkeTest2 {
     public static void toStr(){
         str = "string";
         System.out.println(str);
+
+        //şlkdfjsşdlkjdşlskf
     }
 }
